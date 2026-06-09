@@ -2,6 +2,7 @@
 
 - SKILL By https://github.com/Yung1120/claude-exam-prep-skill
 - 整合 **CH8 平面電磁波（Plane Electromagnetic Waves）** 與 **CH9 傳輸線（Transmission Lines）** 的中文複習講義：把課程講義的觀念整理，與題庫的 24 題逐題詳解結合，並嵌入從教材抓出的關鍵說明圖。
+- 公式格式跑掉的部分用vscode看是正常的，github 顯示不出來
 
 ## 📄 主要內容
 
